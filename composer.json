@@ -6,7 +6,10 @@
       "fpdi",
       "fpdf",
       "protection",
-      "password"
+      "proteção",
+      "password",
+      "senha",
+      "dados sensíveis"
     ],
     "license": "MIT",
     "authors":[
