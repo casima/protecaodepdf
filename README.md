@@ -5,6 +5,7 @@ Uma versão aprimorada para proteção de PDFs que contém dados sensíveis.
 # Benefícios
 
 Proteão e Criptografia 
+
 Utiliza funções OpenSSL
 
 ## Instalação
