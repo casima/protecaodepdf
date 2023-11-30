@@ -1,0 +1,16 @@
+{
+    "name":"casima/php-ssh",
+    "description":"Proteja o PDF por senha em PHP usando FpdiProtection (Setasign)",
+    "type":"library",
+    "license":"GPL-3.0-or-later",
+    "authors":[
+      {
+        "name":"Bruno Alves",
+        "email": "brunoabcx@gmail.com",
+        "role": "Developer"
+      }
+    ],
+    "require": {
+        "setasign/fpdi-protection": "^2.0"
+    }
+}
