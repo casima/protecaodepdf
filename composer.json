@@ -17,6 +17,11 @@
         "name":"Bruno Alves",
         "email": "brunoabcx@gmail.com",
         "role": "Desenvolvedor"
+      },
+      {
+        "name": "Jan Slabon",
+        "email": "jan.slabon@setasign.com",
+        "homepage": "https://www.setasign.com"
       }
     ],
     "require": {
